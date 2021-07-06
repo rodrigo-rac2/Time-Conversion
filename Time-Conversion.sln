@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time-Conversion", "Time-Conversion.csproj", "{B2DC3F40-0DFF-4E95-ABF6-3B3CDEA23046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2DC3F40-0DFF-4E95-ABF6-3B3CDEA23046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DC3F40-0DFF-4E95-ABF6-3B3CDEA23046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DC3F40-0DFF-4E95-ABF6-3B3CDEA23046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DC3F40-0DFF-4E95-ABF6-3B3CDEA23046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6DDB2AD-42EB-4CB6-B5A9-4005FBCA5EDF}
+	EndGlobalSection
+EndGlobal
